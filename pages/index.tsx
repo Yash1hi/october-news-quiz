@@ -52,7 +52,7 @@ export default function Home() {
   return (
     <div className={showScore ? 
       ("flex flex-col w-screen bg-[url('../public/FinalBackground.png')] bg-no-repeat bg-cover bg-center bg-fixed") : 
-      ("flex flex-col w-screen bg-[#e32b22]")}>
+      ("flex flex-col w-screen bg-[#E04B27]")}>
       <Head>
         <title>El Estoque September News Quiz</title>
       </Head>
@@ -72,7 +72,7 @@ export default function Home() {
           <div className={(selectedOptions[currentQuestion].answerByUser === questions[currentQuestion].correctAnswer)
             ? ("w-screen justify-center items-center bg-[#A9D49F]") :  
             ("w-screen justify-center items-center bg-[#FFA6A6]")}>
-            <div className="flex flex-col w-screen justify-center items-center">
+            <div className="flex flex-col w-screen justify-center items-center pt-10">
               <div className="w-2/3">
                 <p className="text-xl text-white">
                 {(selectedOptions[currentQuestion].answerByUser === questions[currentQuestion].correctAnswer)
@@ -122,7 +122,7 @@ export default function Home() {
                 {questions[currentQuestion].answerOptions.map((answer, index) => (
                   <div
                     key={index}
-                    className="flex items-center w-full py-4 pl-5 m-2 ml-0 space-x-2 border-2 cursor-pointer border-black/10 rounded-xl bg-[#f3655a]"
+                    className="flex items-center w-full py-4 pl-5 m-2 ml-0 space-x-2 border-2 cursor-pointer border-black/10 rounded-xl bg-[#F68E3B]"
                     onClick={(e) => handleAnswerOption(answer.answer)}
                   >
                     <input
@@ -143,7 +143,7 @@ export default function Home() {
               <div className="flex flex-row justify-between w-full mt-4 text-white">
                 <button
                   onClick={handleCheck}
-                  className="w-[40%] h-1/4 py-3 bg-[#ffcf01] rounded-lg left"
+                  className="w-[40%] h-1/4 py-3 bg-[#FECF02] rounded-lg left"
                 >
                   {currentQuestion + 1 === questions.length ? "Submit" : "Check"}
                 </button>

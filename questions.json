@@ -1,123 +1,123 @@
 [
     {
-      "question": "At what age did Queen Elizabeth II die?",
+      "question": "President Joe Biden pardoned all federal possession charges of which drug on Oct. 6?",
       "answerOptions": [
-        { "answer": "96", "isCorrect": true },
-        { "answer": "98" },
-        { "answer": "102" },
-        { "answer": "104" }
+        { "answer": "Cocaine" },
+        { "answer": "Marijuana", "isCorrect": true },
+        { "answer": "Tobacco" },
+        { "answer": "Alcohol" }
       ],
-      "correctAnswer": "96",
+      "correctAnswer": "Marijuana",
       "image": "./Question1.png",
-      "blurb": "Queen Elizabeth II died on Sept. 8 at the age of 96. Her death was publicly announced at 6:30 p.m., six hours after she was placed under medical supervision due to health concerns. The United Kingdom entered a 10-day mourning period following her death, which ended with her funeral on Sept. 19. Her 70-year reign encompassed a wide range of new policies from  cultural changes to decolonization, and it made Queen Elizabeth II the longest-serving monarch in British history. "
+      "blurb": "On Oct. 6, Biden announced a three-part process aimed at reforming  the criminalization of marijuana. This process included a pardon of all prior federal offenses of simple possession. He encouraged state governors to implement similar measures and said his administration would review marijuana’s legal classification as a Schedule 1 drug, although complete decriminalization would have to be passed by Congress."
     },
     {
-      "question": "What temperature, in Fahrenheit, did the heat wave peak at in Cupertino?",
+      "question": "What was the theme of the sophomore Homecoming skit?",
       "answerOptions": [
-        { "answer": "100 degrees" },
-        { "answer": "109 degrees", "isCorrect": true },
-        { "answer": "114 degrees" },
-        { "answer": "120 degrees" }
+        { "answer": "Ghostbusters" },
+        { "answer": "Jurassic Park", "isCorrect": true },
+        { "answer": "Back to the Future" },
+        { "answer": "Star Wars" }
       ],
-      "correctAnswer": "109 degrees",
+      "correctAnswer": "Jurassic Park",
       "image": "./Question2.png",
-      "blurb": "Cupertino experienced record temperatures during the heat wave that swept through California starting Sept. 5, with temperatures peaking at 109 degrees Fahrenheit on Sept. 6. The state narrowly avoided rolling blackouts due to extreme heat and residents were advised to limit their energy use to lower the strain on the power grid. Outdoor athletics were canceled and cooling spaces in the MVHS gym, auditorium and classrooms were opened during brunch and lunch."
+      "blurb": "The Class of 2025’s Homecoming skit was based on “Jurassic Park” and featured a group of students accidentally finding and releasing a 2025-billion-year-old dinosaur in the D building basement. After starting a boxing match with the dinosaur, the sophomores realized the dinosaur was actually looking for its mother and agreed to put their differences aside to help it find its family."
     },
     {
-      "question": "Which hurricane hit Florida on Sept. 28?",
+      "question": "How many days did British Prime Minister Liz Truss stay in office?",
       "answerOptions": [
-        { "answer": "Ana" },
-        { "answer": "Fiona" },
-        { "answer": "Ian", "isCorrect": true },
-        { "answer": "Odette" }
+        { "answer": "22" },
+        { "answer": "44", "isCorrect": true },
+        { "answer": "66" },
+        { "answer": "88" }
       ],
-      "correctAnswer": "Ian",
+      "correctAnswer": "44",
       "image": "./Question3.png",
-      "blurb": "Hurricane Ian originated from a tropical wave and made landfall in Florida on Sept. 28 at Category 4 strength after tearing through Cuba. The hurricane’s 150 mph winds destroyed neighborhoods, forced millions of residents to evacuate and caused power outages across the state. As of Oct. 3, over 100 people have been killed as Ian continues to move north."
+      "blurb": "Truss announced her resignation on Oct. 20 following a 44-day term as prime minister. She entered office on Sept. 6, during the onset of an energy crisis predicted to raise energy bills by 80 percent as elevated inflation and other economic challenges contributed to an economic recession in Britain. Within weeks, her aggressive tax cutting policies drove the value of the British pound to a record low, fueled immense public backlash and plunged the economy into further turmoil."
     },
     {
-      "question": "Where were students without a means of transportation evacuated to after the bomb threat on Sept. 21?",
+      "question": "Varsity Football’s senior night game’s pink out theme served to raise awareness for what?",
       "answerOptions": [
-        { "answer": "Student Union" },
-        { "answer": "Rally Court" },
-        { "answer": "Gym" },
-        { "answer": "Softball Field", "isCorrect": true }
+        { "answer": "Breast cancer", "isCorrect": true },
+        { "answer": "Ebola" },
+        { "answer": "COVID-19" },
+        { "answer": "Pink eye" }
       ],
-      "correctAnswer": "Softball Field",
+      "correctAnswer": "Breast cancer",
       "image": "./Question4.png",
-      "blurb": "On Sept. 21, an anonymous bomb threat sent to several MVHS staff members prompted the administration to declare an evacuation of the campus. Students were advised to leave through their usual means of transportation or wait at the softball field near the Fort Baker entrance for their rides to arrive. Another bomb threat led to a second evacuation two days later on Sept. 23."
+      "blurb": "Varsity Football’s last home game against South San Francisco High School was held on Oct. 21. The theme was “Pink Out,” with students in the bullpen dressing in pink to recognize breast cancer awareness month. After senior night celebrations, the Matadors started the game by scoring a touchdown within the first 20 seconds, but eventually lost 22-14 to SSFHS."
     },
     {
-      "question": "Who placed second in the Welcome Back Rally on Sept. 2?",
+      "question": "Which sports brand cut ties with Ye, formerly known as Kanye West?",
       "answerOptions": [
-        { "answer": "Freshmen" },
-        { "answer": "Sophomores", "isCorrect": true },
-        { "answer": "Juniors" },
-        { "answer": "Seniors" }
+        { "answer": "Adidas" },
+        { "answer": "Nike", "isCorrect": true },
+        { "answer": "Puma" },
+        { "answer": "Under Armour" }
       ],
-      "correctAnswer": "Sophomores",
+      "correctAnswer": "Adidas",
       "image": "./Question5.png",
-      "blurb": "The sophomores won second in the annual Welcome Back Rally, beating the juniors by one point, with seniors in first and freshmen in fourth. The rally was held during tutorial on Sept. 2 and featured performances from MV Marching Band, Cheer and Dance Team, as well as games that students from each class could participate in, such as Tic Tac Toe and Musical Chairs. Each class wore colors of the summer theme, with freshmen in blue, sophomores in pink, juniors in yellow and seniors in purple."
+      "blurb": "German sportswear giant Adidas terminated its partnership with the rapper on Oct. 25 following his antisemitic comments. In its company statement, Adidas said, “Ye’s recent comments and actions have been unacceptable, hateful and dangerous, and they violate the company’s values of diversity and inclusion, mutual respect and fairness.”"
     },
     {
-      "question": "What type of astronomical object did NASA’s DART system crash into on Sept. 26?",
+      "question": "Which popular Minecraft YouTuber had a face reveal on Oct. 2?",
       "answerOptions": [
-        { "answer": "Comet" },
-        { "answer": "Dwarf Planet" },
-        { "answer": "Asteroid", "isCorrect": true },
-        { "answer": "Meteor" }
+        { "answer": "Dream", "isCorrect": true },
+        { "answer": "Tommyinnit" },
+        { "answer": "GeorgeNotFound" },
+        { "answer": "DanTDM" }
       ],
-      "correctAnswer": "Asteroid",
+      "correctAnswer": "Dream",
       "image": "./Question6.png",
-      "blurb": "On Sept. 26, NASA completed its Double Asteroid Redirection Test by crashing a probe into Dimorphos, a harmless asteroid with a diameter of about 530 feet. According to NASA Administrator Bill Nelson, the crash was an “unprecedented success for planetary defense” and is predicted to change the asteroid’s orbit by roughly 10 minutes. It was NASA’s first successful demonstration of kinetic impact technology, which involves transferring momentum from a spacecraft into a space object to deflect its trajectory."
+      "blurb": "Dream, whose real name is Clay, revealed his face to 1.2 million live viewers in a five minute YouTube premiere. Before the video, he had only appeared as a smiley face to remain anonymous. However, on Oct. 2, he decided to finally show his face to allow him to post more “IRL content” to his channel with over 30 million subscribers."
     },
     {
-      "question": "Which dance team performed at Bobateeno on Sept. 17?",
+      "question": "Which driver won the 2022 Formula One World Championship?",
       "answerOptions": [
-        { "answer": "Andaaz" },
-        { "answer": "KCDC", "isCorrect": true },
-        { "answer": "MVDT" },
-        { "answer": "Raas" }
+        { "answer": "Charles Leclerc" },
+        { "answer": "Lews Hamilton" },
+        { "answer": "Max Verstappen", "isCorrect": true },
+        { "answer": "Sebastian Vettel" }
       ],
-      "correctAnswer": "KCDC",
+      "correctAnswer": "Max Verstappen",
       "image": "./Question7.png",
-      "blurb": "Korean Club Dance Crew performed at the annual Bobateeno event at the Cupertino Civic Center on Sept. 17. More than 270 students from grades eight to 12 attended the event, where they could interact with mental health organizations at booths to collect stamps for free boba. The event ran from noon to 3 p.m. and also featured a performance by the Cupertino High School orchestra, various activities and speeches from the Cupertino City Council."
+      "blurb": "Max Verstappen earned his second world championship title after winning the Japanese Grand Prix on Oct. 9. The 25-year-old Red Bull driver from the Netherlands broke the record for most wins in a season three weeks later after winning the Mexican Grand Prix on Oct. 30 — his 14th win of the season."
     },
     {
-      "question": "A far right party won a general election in what European country?",
+      "question": "What team did Varsity Football defeat 42-0 in the Homecoming game?",
       "answerOptions": [
-        { "answer": "Spain" },
-        { "answer": "France" },
-        { "answer": "Germany" },
-        { "answer": "Italy", "isCorrect": true }
+        { "answer": "Cupertino High School" },
+        { "answer": "Fremont High School" },
+        { "answer": "Homestead High School" },
+        { "answer": "Lynbrook High School", "isCorrect": true }
       ],
-      "correctAnswer": "Italy",
+      "correctAnswer": "Lynbrook High School",
       "image": "./Question8.png",
-      "blurb": "The Italian general election was held on Sept. 25. The right-wing Brothers of Italy party, led by Giorgia Meloni, won the most seats in Parliament with 26 percent of the vote, putting Meloni on track to become Italy’s next prime minister. The victory follows a string of far-right successes in Sweden, France and Spain, and marks the furthest right-wing Italy’s government has been since 1945."
+      "blurb": "Varsity Football destroyed Lynbrook High School 42-0 during  MVHS’s Homecoming game, by scoring a total of six touchdowns across the first, second and fourth quarters. The Homecoming Court ceremony was held at halftime along with performances from the Dance Team, Marching Band, Color Guard and Cheer."
     },
     { 
       
-      "question": "What holiday did Spanish students celebrate on Sept. 19?",
+      "question": "Which artist’s album broke the record for the most Spotify streams in one day?",
       "answerOptions": [
-        { "answer": "Cinco De Mayo" },
-        { "answer": "Mexican Independence Day", "isCorrect": true },
-        { "answer": "National Day of Spain" },
-        { "answer": "Día de Muertos" }
+        { "answer": "Ariana Grande" },
+        { "answer": "Drake" },
+        { "answer": "Ed Sheeran" },
+        { "answer": "Taylor Swift", "isCorrect": true }
       ],
-      "correctAnswer": "Mexican Independence Day",
+      "correctAnswer": "Taylor Swift",
       "image": "./Question9.png",
-      "blurb": "On Sept. 19, Spanish classes celebrated Mexican Independence Day in the Rally Court by watching and learning traditional folk dances. LGBTQ+ Mexican folk dance group Ensemble Folclórico Colibrí allowed students to try on folklórico skirts and led lessons on dance steps."
+      "blurb": "After releasing her 10th studio album, “Midnights,” at midnight on Oct. 21, singer-songwriter Taylor Swift amassed 184.6 million streams in one day, breaking the record for the most streamed album on Spotify in 24 hours. Her 13-song album dominated the Billboard chart, with Swift becoming the first artist with songs in the entire top ten of the Billboard Hot 100."
     },
     {
-      "question": "Protests erupted in which Islamic Republic following the death of 22-year-old Mahsa Amini?",
+      "question": "What Cupertino youth event featured a debate between MVHS students?",
       "answerOptions": [
-        { "answer": "Afghanistan" },
-        { "answer": "Mauritania" },
-        { "answer": "Iran", "isCorrect": true },
-        { "answer": "Pakistan" }
+        { "answer": "Monster Mash" },
+        { "answer": "Pizza and Politics", "isCorrect": true },
+        { "answer": "Volunteer Fair" },
+        { "answer": "Wildlife and Harvest Day" }
       ],
-      "correctAnswer": "Iran",
+      "correctAnswer": "Pizza and Politics",
       "image": "./Question10.png",
-      "blurb": "Mahsa Amini, a 22-year-old Kurdish woman who had been arrested for allegedly violating Iran’s hijab law requiring women to wear headscarves, died in police custody on Sept. 16. In response, demonstrators took to the streets to protest the regime, sparking a nationwide uprising and government crackdown. In an attempt to quell the protests, the government imposed shutdowns on Internet access and digital services and arrested thousands of protestors and their supporters. At least 83 people have been confirmed dead from clashes with riot police, according to Iran Human Rights."
+      "blurb": "Cupertino’s youth political forum, Pizza and Politics, returned to the Cupertino City Hall on Oct. 21 for the first time since 2018. The event was coordinated by the Cupertino Youth Activity Board, Campbell Youth Commission and Saratoga Youth Commission. Along with the teen debate, the program included a mayor’s roundtable and a panel with FUHSD Board of Trustees candidates. The teen debate on California’s 2035 gas car ban featured junior Amy Zhang and senior Alex Zhang on the affirmative side and sophomores Alan Tai and Saanvi Goyal on the negation."
     }
   ]
