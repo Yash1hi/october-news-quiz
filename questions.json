@@ -50,8 +50,8 @@
     {
       "question": "Which sports brand cut ties with Ye, formerly known as Kanye West?",
       "answerOptions": [
-        { "answer": "Adidas" },
-        { "answer": "Nike", "isCorrect": true },
+        { "answer": "Adidas", "isCorrect": true },
+        { "answer": "Nike" },
         { "answer": "Puma" },
         { "answer": "Under Armour" }
       ],
